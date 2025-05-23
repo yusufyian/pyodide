@@ -6,7 +6,7 @@ src/js/generated
 *.out.*
 
 *.egg-info/
-
+.DS_Store
 __pycache__
 
 .docker_home
